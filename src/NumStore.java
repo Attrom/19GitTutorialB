@@ -5,7 +5,7 @@ public interface NumStore {
 	public void inputNum();
 	
 	//Returns the number that is stored
-	public int getNum();
+	public double getNum();
 	
 	//Set method to change the number from a different method
 	public void setNum(int newNum);
